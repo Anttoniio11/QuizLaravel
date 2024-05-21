@@ -37,7 +37,7 @@ class ResultController extends Controller
         $ecuacion->save();
         
         return $ecuacion;
-    } 
+    }
 
     }
 
